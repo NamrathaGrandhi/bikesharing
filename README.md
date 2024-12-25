@@ -40,13 +40,15 @@
 
 
 ## Technologies Used
-Python Libraries:
-pandas - version 2.2.2: For data manipulation and analysis
-matplotlib - version 3.8.4: For creating various plots and visualizations to explore data.
-seaborn - version 0.13.2: For more advanced statistical plots and visualizations to identify trends and insights efficiently.
-scikit-learn - version 1.2.0: For machine learning and model evaluation, including tools like `train_test_split`.
-Other Libraries
-scipy version 1.13.1: For statistical testing and analysis.
+- **Python Libraries**:
+  - **pandas** - version 2.2.2: For data manipulation and analysis.
+  - **numpy** - version 1.26.4: For numerical computations.
+  - **matplotlib** - version 3.8.4: For creating visual plots and visualizations.
+  - **seaborn** - version 0.13.2: For enhanced statistical data visualization.
+  - **scikit-learn** - version 1.2.0: For machine learning and model evaluation, including tools like `train_test_split`.
+  
+- **Other Libraries**:
+  - **scipy** - version 1.13.1: For statistical testing and analysis.
 
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
