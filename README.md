@@ -45,8 +45,7 @@
   - **numpy** - version 1.26.4: For numerical computations.
   - **matplotlib** - version 3.8.4: For creating visual plots and visualizations.
   - **seaborn** - version 0.13.2: For enhanced statistical data visualization.
-  - **scikit-learn** - version 1.2.0: For machine learning and model evaluation, including tools like `train_test_split`.
-  - **scikit-learn** - version 1.2.0: For machine learning and model evaluation (including r2_score).
+  - **scikit-learn** - version 1.2.0: For machine learning and model evaluation, including tools like `train_test_split`,r2_score.
   - **statsmodels** - version 0.13.2: For statistical modeling and analysis.
 
 
