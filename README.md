@@ -20,21 +20,21 @@
 
 ## Conclusions
 - Effect of Categorical Variables on the Dependent Variable: ​
-	The demand for bikes has increased from year to year. ​
-	Non-holiday days have a higher demand for bikes compared to holidays. ​
-	Among seasons, fall has the highest demand, and spring has the least demand for bikes. ​
-	On rainy days and during hail storms, the demand for bikes is very low compared to cloudy or partially cloudy days.
+	-The demand for bikes has increased from year to year. ​
+	-Non-holiday days have a higher demand for bikes compared to holidays. ​
+	-Among seasons, fall has the highest demand, and spring has the least demand for bikes. ​
+	-On rainy days and during hail storms, the demand for bikes is very low compared to cloudy or partially cloudy days.
 - Importance of Using drop_first=True During Dummy Variable Creation: ​
-	To represent a variable with n categories, only n-1 dummy variables are needed. ​ Dropping the first dummy variable avoids multicollinearity. 
+	-To represent a variable with n categories, only n-1 dummy variables are needed. ​ Dropping the first dummy variable avoids multicollinearity. 
 - Correlation of Numerical Variables with the Target Variable: ​
-	Temperature (temp) has the highest correlation with the target variable (cnt). 
+	-Temperature (temp) has the highest correlation with the target variable (cnt). 
 - Validation of Linear Regression Assumptions: ​
-	The model is validated by checking R-squared and Adjusted R-squared values, P-values of features, and Variance Inflation Factor (VIF). ​ Features with high P-values and high VIF are dropped iteratively to improve the model
+	-The model is validated by checking R-squared and Adjusted R-squared values, P-values of features, and -Variance Inflation Factor (VIF). ​ Features with high P-values and high VIF are dropped iteratively to improve the model
 - Top 3 Features Contributing to Bike Demand: ​
-	The top 3 features are:
-		Atemp (feels-like temperature) ​
-		Year (yr) ​
-		Winter (season)
+	-The top 3 features are:
+		-Atemp (feels-like temperature) ​
+		-Year (yr) ​
+		-Winter (season)
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
