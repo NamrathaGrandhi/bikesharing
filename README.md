@@ -52,9 +52,9 @@
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
-Inspiration: The analysis was inspired by the need of A US bike-sharing provider BoomBikes aspiration to understand demand for shared bikes.
-Data Source: The dataset was sourced from Upgrad.
-References: This project was supported by insights from data science tutorials and industry-standard practices.
+**Inspiration** : The analysis was inspired by the need of A US bike-sharing provider BoomBikes aspiration to understand demand for shared bikes.
+**Data Source** : The dataset was sourced from Upgrad.
+**References** : This project was supported by insights from data science tutorials and industry-standard practices.
 
 
 ## Contact
