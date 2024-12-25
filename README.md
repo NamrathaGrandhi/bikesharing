@@ -46,9 +46,8 @@
   - **matplotlib** - version 3.8.4: For creating visual plots and visualizations.
   - **seaborn** - version 0.13.2: For enhanced statistical data visualization.
   - **scikit-learn** - version 1.2.0: For machine learning and model evaluation, including tools like `train_test_split`.
-  
-- **Other Libraries**:
-  - **scipy** - version 1.13.1: For statistical testing and analysis.
+  - **scikit-learn** - version 1.2.0: For machine learning and model evaluation (including r2_score).
+  - **statsmodels** - version 0.13.2: For statistical modeling and analysis.
 
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
